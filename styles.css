@@ -1,0 +1,17 @@
+/* p.error{
+    color: red;
+}
+p.success{
+    color: #09e909;
+}
+p.success.feedback{
+    border: 1px dashed #09e909 ;
+}
+div#content{
+    background-color: #ebebeb;
+    padding:20px ;
+} */
+
+div .error{
+   color: red; 
+}
